@@ -7,4 +7,4 @@ image:
   tag: "1.16.1"
 
 service:
-  type: LoadBalancer
+  type: NodePort
